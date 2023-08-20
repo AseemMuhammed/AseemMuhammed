@@ -13,7 +13,7 @@ Hello! I'm Muhammed Aseem, a passionate Full Stack Developer based in the scenic
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
 </p>
 
 
