@@ -1,7 +1,7 @@
 Hi 👋 My name is Muhammed Aseem
 ===============================
 
-Full stack Developer
+fornt-end Developer
 --------------------
 
 Hello! I'm Muhammed Aseem, a passionate Full Stack Developer based in the scenic region of Kerala, India. With a strong background in HTML, CSS, JavaScript, and ReactJS, I've embarked on a journey to create meaningful and impactful digital experiences. My expertise extends to various technologies and frameworks, allowing me to craft dynamic web applications that merge form and function seamlessly.
