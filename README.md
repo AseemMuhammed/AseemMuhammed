@@ -1,30 +1,62 @@
-Hi 👋 My name is Muhammed Aseem
-===============================
+<h1 align="center">Hi, I'm Muhammed Aseem 👋</h1>
+<h3 align="center">Front-End Developer | React · Next.js · TypeScript · Tailwind CSS</h3>
 
-fornt-end Developer
---------------------
-
-Hello! I'm Muhammed Aseem, a passionate Full Stack Developer based in the scenic region of Kerala, India. With a strong background in HTML, CSS, JavaScript, and ReactJS, I've embarked on a journey to create meaningful and impactful digital experiences. My expertise extends to various technologies and frameworks, allowing me to craft dynamic web applications that merge form and function seamlessly.
-
-* 🌍  I'm based in Malappuram,Kerala
-* ✉️  You can contact me at [aseemvallikkaparambil@gmail.com](mailto:aseemvallikkaparambil@gmail.com)
-
-### Skills
-
-
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+<p align="center">
+  📍 Dubai, UAE &nbsp;|&nbsp; 💼 2.5 years of experience &nbsp;|&nbsp; 🟢 Open to work
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/aseemvp/">LinkedIn</a> •
+  <a href="mailto:aseemvallikkaparambil@gmail.com">Email</a> •
+  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
+</p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/AseemMuhammed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aseemvp/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## 👨‍💻 About me
 
-### Badges
+I'm a Front-End Developer with 2.5 years of experience building responsive,
+high-performance web apps for real clients. I turn Figma designs into clean,
+pixel-accurate code, integrate REST APIs, and work closely with designers and
+back-end teams. I also use AI tools (Claude, GitHub Copilot, Cursor) to ship
+clean code faster.
 
-<b>My GitHub Stats</b>
+## 🛠️ Tech stack
 
-<a href="http://www.github.com/AseemMuhammed"><img src="https://github-readme-stats.vercel.app/api?username=AseemMuhammed&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AseemMuhammed's GitHub stats" /></a>
+**Core:** ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-<a href="https://github.com/AseemMuhammed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AseemMuhammed&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Styling:** ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
+
+**State & data:** ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
+
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+## 🚀 Featured projects
+
+| Project | What it is | Tech | Links |
+|---|---|---|---|
+| **Real Estate Platform** | Full-stack marketplace with Buyer, Seller and Admin dashboards, 20+ features | Next.js, TypeScript, Tailwind | [Live](#) · [Code](#) |
+| **Enskool** | Student results management dashboard, UI/UX built from scratch | HTML, CSS, JavaScript | [Live](#) · [Code](#) |
+| **Project 3** | One-line description | Tech | [Live](#) · [Code](#) |
+
+## 💼 Experience
+
+- **Front-End Developer, Orryzen** (May 2025 – Present): client websites with React, Next.js and Tailwind
+- **Front-End Developer, Nexbex Solutions** (Apr 2024 – Apr 2025): React interfaces and a reusable component library
+
+## 📬 Let's connect
+
+I'm open to Front-End Developer roles in the UAE (and remote).
+Email me at aseemvallikkaparambil@gmail.com
