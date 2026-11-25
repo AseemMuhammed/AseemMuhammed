@@ -49,7 +49,6 @@ clean code faster.
 |---|---|---|---|
 | **Real Estate Platform** | Full-stack marketplace with Buyer, Seller and Admin dashboards, 20+ features | Next.js, TypeScript, Tailwind | [Live](#) · [Code](#) |
 | **Enskool** | Student results management dashboard, UI/UX built from scratch | HTML, CSS, JavaScript | [Live](#) · [Code](#) |
-| **Project 3** | One-line description | Tech | [Live](#) · [Code](#) |
 
 ## 💼 Experience
 
